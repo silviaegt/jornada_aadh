@@ -16,8 +16,8 @@ Estas serán algunas de las preguntas que buscaremos desarrollar en este webinar
 
 ### Panel 1, 10 AM Buenos Aires: https://zoom.us/j/951365521 
 
-Silvia Gutiérrez:	Ok, you're open, do they see your stuff? Is it useful?, here are three strategies Academic Libraries could profit from
-
+Silvia Gutiérrez (@espejolento): [Ok, you're open, do they see your stuff? Is it useful?, here are three strategies Academic Libraries could profit from](https://slides.com/silviagutierrez/open-useful-academic-libraries)
+	
 Carla Colombati (University of Teramo):	Communities4Heritage: Abruzzo's cases study
 
 Daniela Zalloco (Min de Educación Argentina):	Educación y patrimonio: la experiencia de la Red de Escuelas Asociadas a la UNESCO en Argentina
